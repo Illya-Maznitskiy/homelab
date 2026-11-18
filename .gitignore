@@ -1,0 +1,13 @@
+# secrets 🔒
+.env
+.env.*
+!.env.example
+
+# data folders (if you ever store data next to the configs)
+*_data/
+data/
+
+# editor / OS
+.idea/
+.vscode/
+*.swp
